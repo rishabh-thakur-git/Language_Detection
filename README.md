@@ -110,10 +110,11 @@ Thanks to open-source datasets and libraries that made this project possible.
 🚀 Connect With Me
 
 📧 Email: rishabhthakur5221@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/
+🔗 LinkedIn: [www.linkedin.com/in/](https://www.linkedin.com/in/rishabh-thakur-726b14331/)
 🐙 GitHub: - https://github.com/rishabh-thakur-git
 Thanks for checking out this project!
 
 If this project helped you, feel free to ⭐ star the repo and share it with others learning 
+
 
 
